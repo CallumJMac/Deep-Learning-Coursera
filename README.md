@@ -45,7 +45,7 @@ Packages used:
 #### Building a Deep Neural Network for Image Classification: Application
 Tasks completed:
 - Built a deep network to classify cat vs non-cat images.
-- Compared accuracy to logsitic regression model built in week 1.
+- Compared accuracy to logistic regression model built in week 1.
 
 Packages used:
 - [numpy](https://www.numpy.org/) is the fundamental package for scientific computing with Python.
